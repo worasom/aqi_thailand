@@ -4,7 +4,7 @@ Mining and visualizing Bangkok air pollution data
 
 •	Utilizing github for version control 
 
-•	Mining weather, air pollution data (Requests, wget, selenium, BeautifulSoup)
+•	Mining weather, air pollution data (Requests, wget, selenium, BeautifulSoup). Blog: https://medium.com/@worasom/scraping-air-pollution-data-from-thailand-epa-a866f291c06
 
 •	Visualization of air pollution (matplot.pyplotlib, folium) 
 
