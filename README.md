@@ -1,4 +1,4 @@
-# aqi_thailand
+# Identifying the Sources of Winter Air Pollution in Bangkok
 
 Mining and visualizing Bangkok air pollution data 
 
