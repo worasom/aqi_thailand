@@ -17,6 +17,6 @@ Blog:  https://towardsdatascience.com/identifying-the-sources-of-winter-air-poll
 •   Build a random forest regression model to identify  major contribution to PM2.5 particle ([notebook](https://github.com/worasom/aqi_thailand/blob/master/pm25-ml2.ipynb) 
 
 •   Built a machine learning pipeline to identify the major contributors to PM2.5 air pollution: used autoML to find the best models and hyper parameters (TPOT library)([notebook](https://github.com/worasom/aqi_thailand/blob/master/Auto_TPOT.ipynb)
-•   Achieve 68 - 73% R-squared 
+•   Achieve 68 - 73% R-squared on the validaton set and 99% R-squared for the training set.
 
 •  Try with other approach: predict the pollution level using neural network [notebook](https://github.com/worasom/aqi_thailand/blob/master/pm25_NN.ipynb). Model the change in pollution level [notebook](https://github.com/worasom/aqi_thailand/blob/master/pm25_diff_model.ipynb)
