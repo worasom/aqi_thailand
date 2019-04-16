@@ -1,7 +1,7 @@
 # Identifying the Sources of Winter Air Pollution in Bangkok
 
 
-![Optional Text](.../readme/hotspot_time.png)
+![Optional Text](https://github.com/worasom/aqi_thailand/blob/master/readme/hotspot_time.png)
 
 
 
