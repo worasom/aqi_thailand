@@ -58,5 +58,13 @@ If you’re concerned about air quality, as a tourist visiting Bangkok, which mo
 
 We again see the seasonal trend of the PM2.5 pollution. The pollution starts around late October and lasts until early April for both 2017 and 2018. The air quality seems to be better during the New Year break in 2017, but data is missing in 2018, thus inconclusive. On average tourists should avoid Bangkok between late October and early April. You may be thinking, “But that’s when I have my holiday! Where else I can go?” May I suggest Phuket or Samui Island? The south of Thailand has low AQI all year long, as you can see in the map below.
 
+With the start of the monsoon season, the weather in Bangkok will get better, and public attention on this issue will likely fade. However, without immediate policy measures, the problem will come back again next winter. In fact, the Bangkok region is not the only place that suffers from particle air pollution. Below, I show a map of particle pollution in different months.
+
+![Optional Text](https://github.com/worasom/aqi_thailand/blob/master/readme/monthly_map.gif)
+
+The seasonal pollution is not limited to the central region. While the air pollution in Bangkok peaked in January, the pollution moved to the northern provinces. In fact, their situation is much worse as judged by the maximum pollution level across the country shown below. Note that this is a plot of the maximum from monthly averages, to get rid of outliers.
+
+![Optional Text](https://github.com/worasom/aqi_thailand/blob/master/readme/Thailand_max_monthavg.png)
+
 
 
