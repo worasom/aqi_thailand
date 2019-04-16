@@ -82,7 +82,7 @@ If the source of the pollution is local, then the AQI will depend on factors suc
 
 Because the particle pollution tend to linger in the atmosphere, the current value will depend on the previous value. This means that the previous level must be included in the model, but from how far back?  Using PACF suggests using the data with lag one hour, so the level with lag one is included in the model. 
 
-![](https://github.com/worasom/aqi_thailand/blob/master/readme/Thailand_max_monthavg.png)
+![](https://github.com/worasom/aqi_thailand/blob/master/readme/fig2.png)
 
 
 ## Agricultural Burning 
