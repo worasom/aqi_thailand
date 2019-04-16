@@ -1,6 +1,12 @@
 # Identifying the Sources of Winter Air Pollution in Bangkok
 
+
+![Optional Text](../readme/hotspot_time.png)
+
+
+
 Mining and visualizing Bangkok air pollution data 
+
 
 
 •      Mined publicly available weather and air pollution data - NASA’s fire map, Berkeley’s Earth air pollution, and traffic data (Requests, wget, selenium, BeautifulSoup libraries) Blog: https://medium.com/@worasom/scraping-air-pollution-data-from-thailand-epa-a866f291c06
