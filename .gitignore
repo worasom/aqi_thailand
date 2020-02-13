@@ -1,0 +1,5 @@
+
+.ipynb_checkpoints/scraping-AQI-checkpoint.ipynb
+geckodriver.log
+data/*
+web/*
